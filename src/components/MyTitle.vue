@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>ciao Boolean</h1>
+        <h1>La mia prima app con Vue CLI!</h1>
     </div>
 </template>
 
@@ -14,5 +14,7 @@ export default {
 </script>
 
 <style scoped lang="scss">
-
+h1{
+  text-align: center;
+}
 </style>
